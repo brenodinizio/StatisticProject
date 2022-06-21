@@ -25,3 +25,13 @@ C:\Users\android\Desktop\breno.reginaldo\StasticProject\StasticAPI\obj\Debug\net
 C:\Users\android\Desktop\breno.reginaldo\StasticProject\StasticAPI\obj\Debug\net6.0\StasticAPI.pdb
 C:\Users\android\Desktop\breno.reginaldo\StasticProject\StasticAPI\obj\Debug\net6.0\StasticAPI.genruntimeconfig.cache
 C:\Users\android\Desktop\breno.reginaldo\StasticProject\StasticAPI\obj\Debug\net6.0\ref\StasticAPI.dll
+C:\Users\android\Desktop\breno.reginaldo\StatisticProject\StatisticAPI\obj\Debug\net6.0\StasticAPI.csproj.AssemblyReference.cache
+C:\Users\android\Desktop\breno.reginaldo\StatisticProject\StatisticAPI\obj\Debug\net6.0\StasticAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\android\Desktop\breno.reginaldo\StatisticProject\StatisticAPI\obj\Debug\net6.0\StasticAPI.AssemblyInfoInputs.cache
+C:\Users\android\Desktop\breno.reginaldo\StatisticProject\StatisticAPI\obj\Debug\net6.0\StasticAPI.AssemblyInfo.cs
+C:\Users\android\Desktop\breno.reginaldo\StatisticProject\StatisticAPI\obj\Debug\net6.0\StasticAPI.csproj.CoreCompileInputs.cache
+C:\Users\android\Desktop\breno.reginaldo\StatisticProject\StatisticAPI\obj\Debug\net6.0\StasticAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\android\Desktop\breno.reginaldo\StatisticProject\StatisticAPI\obj\Debug\net6.0\StasticAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\android\Desktop\breno.reginaldo\StatisticProject\StatisticAPI\obj\Debug\net6.0\StasticAPI.dll
+C:\Users\android\Desktop\breno.reginaldo\StatisticProject\StatisticAPI\obj\Debug\net6.0\refint\StasticAPI.dll
+C:\Users\android\Desktop\breno.reginaldo\StatisticProject\StatisticAPI\obj\Debug\net6.0\StasticAPI.pdb

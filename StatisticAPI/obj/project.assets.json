@@ -214,11 +214,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\android\\Desktop\\breno.reginaldo\\StasticProject\\StasticAPI\\StasticAPI.csproj",
+      "projectUniqueName": "C:\\Users\\android\\Desktop\\breno.reginaldo\\StatisticProject\\StatisticAPI\\StasticAPI.csproj",
       "projectName": "StasticAPI",
-      "projectPath": "C:\\Users\\android\\Desktop\\breno.reginaldo\\StasticProject\\StasticAPI\\StasticAPI.csproj",
+      "projectPath": "C:\\Users\\android\\Desktop\\breno.reginaldo\\StatisticProject\\StatisticAPI\\StasticAPI.csproj",
       "packagesPath": "C:\\Users\\android\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\android\\Desktop\\breno.reginaldo\\StasticProject\\StasticAPI\\obj\\",
+      "outputPath": "C:\\Users\\android\\Desktop\\breno.reginaldo\\StatisticProject\\StatisticAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
